@@ -17,7 +17,8 @@ html{
 }
 
 .nav{
-    background-color: rgb(229, 229, 238);
+    
+    background-color: red;
     padding: 0px 0;
    
 }
@@ -43,7 +44,7 @@ nav h1{
 }
 li{
     float: left;
-    border-right: 1ps solid black;
+    border-right: 1ps solid blue;
 }
 
 nav ul li{
@@ -74,7 +75,7 @@ nav ul li a{
     font-weight: bold;
     color: black;
     display: inline-block;
-    color: royalblue;
+    color: yellow;
 
 }
 
